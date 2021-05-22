@@ -13,10 +13,6 @@ Navigate to crawler folder
 $ cd crawler
 ```
 
-{% hint style="info" %}
-Install scrapy before running
-{% endhint %}
-
 ```text
 $ scrapy crawl posts
 ```
